@@ -1,0 +1,1 @@
+The culmination of 8 months of work, this project was me stepping outisde of my comfort zone into the real of pure materials science. My question, why does LiTFSI maintain such high conductivity and lithium ion diffusivity at ultra high concentrations (3M), and will this effect be maintained with other solvent mixes. 
